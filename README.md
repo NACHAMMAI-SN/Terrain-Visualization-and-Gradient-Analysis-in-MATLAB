@@ -1,2 +1,2 @@
-# Terrain-Visualization-and-Gradient-Analysis-in-MATLAB
-Explore mountainous terrains visually and analytically with MATLAB. This project generates realistic landscapes
+Terrain Visualization and Gradient Analysis in MATLAB:
+Explore mountainous terrains visually and analytically with MATLAB. This project generates realistic landscapes, computes gradient vectors to reveal terrain steepness, and overlays them on contour plots for clear visualization. Perfect for geologists, GIS analysts, and environmental scientists needing to comprehend and present complex terrain data effectively.
